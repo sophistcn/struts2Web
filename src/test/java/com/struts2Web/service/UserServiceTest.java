@@ -9,6 +9,6 @@ import junit.framework.TestCase;
 * @desc: 
 * 
 */
-public class UserServiceTest extends TestCase {
+public class UserServiceTest  {
 	
 }
